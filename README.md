@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rajiv Pathak. </h1>
- <h3>At Masai, I have so far learned HTML, CSS, core concepts of Javascript, React, Node, Express, and Mongo DB. I utilized these technical concepts in  projects.
+ <h3 align="center">At Masai, I have so far learned HTML, CSS, core concepts of Javascript, React, Node, Express,<br> and Mongo DB. I utilized these technical concepts in  projects.
 
    Apart from web development, I like to play cricket and read novels.</h3>
 <h3 align="center">A passionate full stack web developer </h3>
