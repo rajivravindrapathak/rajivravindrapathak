@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Hi 👋, I'm Rajiv Pathak I have completed a Diploma in Computer Science from Government Polytechnic, Jaunpur. 
+<h1 align="center">Hi 👋, I'm Rajiv Pathak
 
-I had some basic knowledge of web development from my college days and a friend of mine suggested Masai to me. I researched about it and came across its videos on YouTube. I enrolled for the full-stack web development course on learning about its pay after you learn policy, and the syllabus was extremely industry-relevant. And I believe the 9-9 curriculum saves up a lot of time.
-
-At Masai, I have so far learned HTML, CSS, core concepts of Javascript, Node, Express, and Mongo DB. I utilized these technical concepts in three projects. Clone of Fab India and Mednear group projects and Nordstromrack clone being an individual project.
-
-Apart from web development, I like to play cricket and read novels.</h3>
+Apart from web development, I like to play cricket and read novels.</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/ravindra_rajiv" target="blank"><img src="https://img.shields.io/twitter/follow/ravindra_rajiv?logo=twitter&style=for-the-badge" alt="ravindra_rajiv" /></a> </p>
