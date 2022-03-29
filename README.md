@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/ravindra_rajiv" target="blank"><img src="https://img.shields.io/twitter/follow/ravindra_rajiv?logo=twitter&style=for-the-badge" alt="ravindra_rajiv" /></a> </p>
 
 - 🌱 I’m currently learning **react**
-
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **rajivpathak199@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
