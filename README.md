@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rajiv Pathak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I hold a Diploma in Computer Science and Engineering and possess a deep passion for technology. In my pursuit of skill enhancement, I came across Masai School and made the decision to enroll in their Full Stack Web Development program, specializing in the MERN stack. Through intensive projects and hands-on learning, I have gained expertise in HTML, CSS, JavaScript, React.js, Redux, Node.js, Express.js, MongoDB, and REST API. I have established a strong foundation in React and Node, with seven months of valuable experience at Cheers Entertainment Pvt Ltd in Chennai. During my time there, I effectively applied my skills to data manipulation and relationship management in various projects. Additionally, I am proficient in building Express APIs for interactive web applications.
+
+
+
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivravindrapathak&label=Profile%20views&color=0e75b6&style=flat" alt="rajivravindrapathak" /> </p>
 
