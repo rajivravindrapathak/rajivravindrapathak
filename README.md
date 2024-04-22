@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://rajivportfolios.netlify.app/](https://rajivportfolios.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rajivportfolios.netlify.app/]([https://rajivportfolios.netlify.app/](https://rajivwebportfolio.netlify.app/))
 
 - 📫 How to reach me **rajivpathak199@gmail.com**
 
