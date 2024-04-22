@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rajiv Pathak</h1>
-<h3 align="center">I hold a Diploma in Computer Science and Engineering and possess a deep passion for technology. In my pursuit of skill enhancement, I came across Masai School and made the decision to enroll in their Full Stack Web Development program, specializing in the MERN stack. Through intensive projects and hands-on learning, I have gained expertise in HTML, CSS, JavaScript, React.js, Redux, Node.js, Express.js, MongoDB, and REST API. I have established a strong foundation in React and Node, with seven months of valuable experience at Cheers Entertainment Pvt Ltd in Chennai. During my time there, I effectively applied my skills to data manipulation and relationship management in various projects. Additionally, I am proficient in building Express APIs for interactive web applications.
+<h3 align="center">
+I gained foundational knowledge in web development during my college years, and upon a friend's recommendation, I discovered Masai School. Intrigued by its pay-after-you-learn model and the industry-relevant syllabus, I decided to enroll in the full-stack web development course. The 9-9 curriculum appealed to me as it promised to optimize learning efficiency.
 
+During my journey at Masai, I delved into HTML, CSS, and fundamental concepts of JavaScript, React, Redux, Node.js, Express, and MongoDB. These technical skills were put to practical use in three projects: a clone of Fab India and Anthropologie as group projects, and a personal endeavor to replicate Nordstrom Rack.
 
+In addition to my academic pursuits, I have gained valuable work experience at Cheers Entertainment Pvt. Ltd. and am currently employed at KSBM Infotech Pvt. Ltd. Beyond the world of coding, I find joy in playing cricket and immersing myself in novels.
 
 
 </h3>
