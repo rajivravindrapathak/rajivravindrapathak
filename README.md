@@ -16,11 +16,11 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://rajivportfolios.netlify.app/]([https://rajivportfolios.netlify.app/](https://rajivwebportfolio.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://rajivportfolios.netlify.app/](https://rajivwebportfolio.netlify.app/)
 
 - 📫 How to reach me **rajivpathak199@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Iz-yzsxvO22G0x1E6j0fKqxxWkc1Djht/view?usp=sharing](https://drive.google.com/file/d/1Iz-yzsxvO22G0x1E6j0fKqxxWkc1Djht/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Iz-yzsxvO22G0x1E6j0fKqxxWkc1Djht/view?usp=sharing](https://drive.google.com/file/d/187IpFQyS4-x8LmbB_4SXSbcdzI6a6c5g/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
